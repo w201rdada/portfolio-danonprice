@@ -1,24 +1,24 @@
-# My first cool idea {#slug-one}
+# Listen to Your Heart {#Heart disease is the leading cause of death in America}
 
 #### Keywords
 
-yaba, daba, do
+heart-rate, heart disease, machine learning, artificial intelligence, cardiovascular, exercise, wearable devices
 
-## A beginning.
+## Why listen to your heart?
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+According to the CDC, the leading cause of death for an American is heart disease. I lost a friend recently to heart disease. I cannot testify to my friend’s cardiovascular fitness before his untimely passing but I am told that level of fitness is a predictor for cardiovascular mortality. By applying artificial intelligence to heart-rate data, we can develop insights and predictive capability to improve cardiovascular fitness.
 
-## A middle.
+## How do I listen to my heart?
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Using a wearable device, I collect and analyze my heart-rate. I believe heart-rate data has information to improve, among other things, level of fitness. Heart-rate patterns are an indicator of a variety of medical and non-medical conditions. For example, the pattern of a deconditioned heart-rate during exercise appears distinct to the pattern illustrated by a heart that is conditioned by routine exercise. Understanding patterns in heart rhythms can help optimize exercise performance and possibly detect disease. I exercise at a gym that uses heart-rate monitors as a component in a trainer-led exercise class. 
 
 <!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
+```{r machine-learning,echo=FALSE,fig.cap='[Yelp: Orangetheory Fitness Princeton](https://www.yelp.com/biz/orangetheory-fitness-princeton-princeton-2)',fig.align='center',out.width='50%'}
+knitr::include_graphics('https://s3-media1.fl.yelpcdn.com/bphoto/Z9889ggGZgLJQPIYORkRng/348s.jpg')
 ```
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+Real time calorie burn, heart-rate, and percentage of maximum heart-rate are presented as a color-coded training zone on a television. The metrics serve as a motivational dashboard for the trainer and the class. I propose that a deeper look at the changes of heart-rate during exercise can gives us clues to inform, for instance, whether shortness of breath from intense training is a sign of a deconditioned heart or heart disease. 
 
-## An end.
+## What will my heart say?
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+My wife is a cardiologist. She performs exercise testing to detect heart disease. By applying machine learning techniques to ongoing exercise heart-rate data collected outside of the medical laboratory, a cardiologist could quantify the degree of a patient’s deconditioning and measure improvement over time. We expect regulatory hurdles for getting our algorithms into medical laboratories, but with the profusion of wearable devices capable of measuring heart-rate on the market; we expect analysis of population heart-rate data can give us insight into the cardiovascular fitness of those ranging from the daily walker to the weekend warrior. We further propose that machine learning algorithms can help improve heart disease outcomes.
