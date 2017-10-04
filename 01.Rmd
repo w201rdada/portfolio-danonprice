@@ -6,19 +6,12 @@ heart-rate, heart disease, machine learning, artificial intelligence, cardiovasc
 
 ## Why listen to your heart?
 
-According to the CDC, the leading cause of death for an American is heart disease. I lost a friend recently to heart disease. I cannot testify to my friend’s cardiovascular fitness before his untimely passing but I am told that level of fitness is a predictor for cardiovascular mortality. By applying artificial intelligence to heart-rate data, we can develop insights and predictive capability to improve cardiovascular fitness.
+According to the CDC, the leading cause of death for an American is heart disease. I lost a friend recently to heart disease. I cannot testify to my friend’s cardiovascular fitness before his untimely passing but I am told level of fitness is a predictor for cardiovascular mortality. Understanding patterns in heart rhythms can optimize exercise performance and provide disease detection.
 
 ## How do I listen to my heart?
 
-Using a wearable device, I collect and analyze my heart-rate. I believe heart-rate data has information to improve, among other things, level of fitness. Heart-rate patterns are an indicator of a variety of medical and non-medical conditions. For example, the pattern of a deconditioned heart-rate during exercise appears distinct to the pattern illustrated by a heart that is conditioned by routine exercise. Understanding patterns in heart rhythms can help optimize exercise performance and possibly detect disease. I exercise at a gym that uses heart-rate monitors as a component in a trainer-led exercise class. 
+Heart-rate data can be collected using wearable devices such as smart watches and chest strap heart-rate monitors. Heart-rate patterns are an indicator of a variety of medical and non-medical conditions. For example, the pattern of a deconditioned heart during exercise appears distinct to the pattern illustrated by a heart that is trained by routine exercise. A deeper look at the changes of heart-rate during exercise can gives us clues to inform, for instance, whether shortness of breath from intense training is a sign of a deconditioned heart or an early indicator of heart disease.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[Yelp: Orangetheory Fitness Princeton](https://www.yelp.com/biz/orangetheory-fitness-princeton-princeton-2)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://s3-media1.fl.yelpcdn.com/bphoto/Z9889ggGZgLJQPIYORkRng/348s.jpg')
-```
+## A Service for the heart
 
-Real time calorie burn, heart-rate, and percentage of maximum heart-rate are presented as a color-coded training zone on a television. The metrics serve as a motivational dashboard for the trainer and the class. I propose that a deeper look at the changes of heart-rate during exercise can gives us clues to inform, for instance, whether shortness of breath from intense training is a sign of a deconditioned heart or heart disease. 
-
-## What will my heart say?
-
-My wife is a cardiologist. She performs exercise testing to detect heart disease. By applying machine learning techniques to ongoing exercise heart-rate data collected outside of the medical laboratory, a cardiologist could quantify the degree of a patient’s deconditioning and measure improvement over time. We expect regulatory hurdles for getting our algorithms into medical laboratories, but with the profusion of wearable devices capable of measuring heart-rate on the market; we expect analysis of population heart-rate data can give us insight into the cardiovascular fitness of those ranging from the daily walker to the weekend warrior. We further propose that machine learning algorithms can help improve heart disease outcomes.
+We will build a software service and app to apply machine learning to heart-rate data. We will develop insights and predictive capability to improve health and cardiovascular fitness. Based on age, weight, and exercise history, a smart watch app will provide the user with visual and haptic feedback to encourage the user to adjust level of workout intensity. If a user shows signs of overexertion, for example, the app will prompt the user to reduce the pace. A user will be able to target heart rate zones to achieve specific health goals such as weight loss. We expect analysis of population heart-rate data will give insight into the cardiovascular fitness of those ranging from the daily walker to the weekend warrior. We further propose that machine learning algorithms can help improve heart disease outcomes.
