@@ -1,4 +1,4 @@
-# Wargames Database {#WarAPI}
+# Wargames Database {#WargamesAPI}
 
 #### Keywords
 
