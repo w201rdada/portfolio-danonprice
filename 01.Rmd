@@ -20,4 +20,4 @@ We will build a software service and app to apply machine learning to heart-rate
 
 [1] https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
 
-[2] Sachin Gupta, Anand Rohatgi, Colby R. Ayers, Benjamin L. Willis, William L. Haskell, Amit Khera, Mark H. Drazner, James A. de Lemos and Jarett D. Berry. Cardiorespiratory Fitness and Classification of Risk of Cardiovascular Disease Mortality. Circulation. 2011;123:1377-1383, originally published March 31, 2011
+[2] Sachin Gupta, Anand Rohatgi, Colby R. Ayers, Benjamin L. Willis, William L. Haskell, Amit Khera, Mark H. Drazner, James A. de Lemos and Jarett D. Berry. Cardiorespiratory Fitness and Classification of Risk of Cardiovascular Disease Mortality. Circulation. 2011;123:1377-1383, originally published March 31, 2011. https://doi.org/10.1161/CIRCULATIONAHA.110.003236
