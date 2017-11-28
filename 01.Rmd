@@ -6,7 +6,7 @@ heart-rate, heart disease, machine learning, artificial intelligence, cardiovasc
 
 ## Why listen to your heart?
 
-According to the CDC, the leading cause of death for an American is heart disease. I lost a friend recently to heart disease. I cannot testify to my friend’s cardiovascular fitness before his untimely passing but I am told level of fitness is a predictor for cardiovascular mortality. Understanding patterns in heart rhythms can optimize exercise performance and provide disease detection.
+According to the CDC, the leading cause of death for an American is heart disease [1]. I lost a friend recently to heart disease. I cannot testify to my friend’s cardiovascular fitness before his untimely passing but I am told level of fitness is a predictor for cardiovascular mortality. Understanding patterns in heart rhythms can optimize exercise performance and provide disease detection.
 
 ## How do I listen to my heart?
 
@@ -15,3 +15,7 @@ Heart-rate data can be collected using wearable devices such as smart watches an
 ## A service for the heart
 
 We will build a software service and app to apply machine learning to heart-rate data. We will develop insights and predictive capability to improve health and cardiovascular fitness. Based on age, weight, and exercise history, a smart watch app will provide the user with visual and haptic feedback to encourage the user to adjust level of workout intensity. If a user shows signs of overexertion, for example, the app will prompt the user to reduce the pace. A user will be able to target heart rate zones to achieve specific health goals such as weight loss. We expect analysis of population heart-rate data will give insight into the cardiovascular fitness of those ranging from the daily walker to the weekend warrior. We further propose that machine learning algorithms can help improve heart disease outcomes.
+
+## References
+
+[1] https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
