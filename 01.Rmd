@@ -10,7 +10,7 @@ According to the CDC, the leading cause of death for an American is heart diseas
 
 ## How do I listen to my heart?
 
-Heart-rate data can be collected using wearable devices such as smart watches and chest strap heart-rate monitors. Heart-rate patterns are an indicator of a variety of medical and non-medical conditions. For example, the pattern of a deconditioned heart during exercise appears distinct to the pattern illustrated by a heart that is trained by routine exercise. A deeper look at the changes of heart-rate during exercise can gives us clues to inform, for instance, whether shortness of breath from intense training is a sign of a deconditioned heart or an early indicator of heart disease.
+Heart-rate data can be collected using wearable devices such as smart watches, armband heart-rate monitors, and chest strap heart-rate monitors. Heart-rate patterns are an indicator of a variety of medical and non-medical conditions. For example, the pattern of a deconditioned heart during exercise appears distinct to the pattern illustrated by a heart that is trained by routine exercise. A deeper look at the changes of heart-rate during exercise can gives us clues to inform, for instance, whether shortness of breath from intense training is a sign of a deconditioned heart or an early indicator of heart disease.
 
 ## A service for the heart
 
