@@ -1,6 +1,6 @@
 # Wargames Database {#WargamesAPI}
 
-#### Keywords
+#### Keywords {-}
 
 wargame, simulation, api, natural language processing, machine learning
 

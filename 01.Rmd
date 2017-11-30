@@ -1,6 +1,6 @@
 # Listen to Your Heart {#Heart-Rhythm}
 
-#### Keywords
+#### Keywords {-}
 
 heart-rate, heart disease, machine learning, cardiovascular, exercise, wearable devices
 
