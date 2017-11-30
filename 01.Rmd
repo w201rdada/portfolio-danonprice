@@ -6,7 +6,7 @@ heart-rate, heart disease, machine learning, cardiovascular, exercise, wearable 
 
 ## Why listen to your heart?
 
-According to the CDC, the leading cause of death for an American is heart disease [1]. I lost a friend recently to heart disease. I cannot testify to my friend’s cardiovascular fitness before his untimely passing but level of fitness is a predictor for cardiovascular mortality [2]. Understanding patterns in heart rhythms can optimize exercise performance and provide disease detection.
+According to the CDC, the leading cause of death for an American is heart disease.^[https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm] I lost a friend recently to heart disease. I cannot testify to my friend’s cardiovascular fitness before his untimely passing but level of fitness is a predictor for cardiovascular mortality.^[Sachin Gupta, Anand Rohatgi, Colby R. Ayers, Benjamin L. Willis, William L. Haskell, Amit Khera, Mark H. Drazner, James A. de Lemos and Jarett D. Berry. Cardiorespiratory Fitness and Classification of Risk of Cardiovascular Disease Mortality. Circulation. 2011;123:1377-1383, originally published March 31, 2011. https://doi.org/10.1161/CIRCULATIONAHA.110.003236] Understanding patterns in heart rhythms can optimize exercise performance and provide disease detection.
 
 ## How do I listen to my heart?
 
@@ -18,6 +18,3 @@ We will build a software service and app to apply statistical analysis and machi
 
 ## References
 
-[1] https://www.cdc.gov/nchs/fastats/leading-causes-of-death.htm
-
-[2] Sachin Gupta, Anand Rohatgi, Colby R. Ayers, Benjamin L. Willis, William L. Haskell, Amit Khera, Mark H. Drazner, James A. de Lemos and Jarett D. Berry. Cardiorespiratory Fitness and Classification of Risk of Cardiovascular Disease Mortality. Circulation. 2011;123:1377-1383, originally published March 31, 2011. https://doi.org/10.1161/CIRCULATIONAHA.110.003236
